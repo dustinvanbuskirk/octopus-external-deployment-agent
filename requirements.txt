@@ -1,0 +1,5 @@
+# No third-party dependencies.
+# This script uses Python stdlib only:
+#   configparser, json, os, ssl, sys, time, urllib
+#
+# Requires Python 3.7+ (uses `from __future__ import annotations`)
